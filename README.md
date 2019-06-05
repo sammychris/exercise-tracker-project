@@ -11,4 +11,4 @@
 5. I can retrieve part of the log of any user by also passing along optional parameters of from & to or limit. (Date format yyyy-mm-dd, limit = int)
 
 
-[View the Project on Glitch](https://exercise-tracker-projects.glitch.me)
+* [View the Project on Glitch](https://exercise-tracker-projects.glitch.me)
